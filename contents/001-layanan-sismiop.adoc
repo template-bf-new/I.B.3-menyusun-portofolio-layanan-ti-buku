@@ -1,0 +1,43 @@
+== SISMIOP
+
+=== Nama Layanan : SISMIOP
+
+=== Deskripsi Layanan 
+
+=== Status Layanan
+
+Isinya :
+
+. Pipeline layanan 
+.. Fase pertimbangan : Proposed/Defined, Analyzed, Chartered
+.. Fase pengembangan : Requirement Analyzed, Designed, Built, Tested, Release
+. Katalog layanan : Operational
+. Layanan yang tidak digunakan lagi : Retired
+
+=== Jenis Layanan
+
+. Kategori layanan : 
+.. layanan untuk pelanggan
+.. layanan pendukung / teknis
+. Sumber pemberi layanan : internal / eksternal
+
+=== Pemilik Layanan
+
+=== Pengguna
+
+=== Kontak dan Prosedur untuk Permintaan Layanan
+
+=== Deskripsi Hasil Yang Diharapkan
+
+minimal berisi : 
+
+. informasi tentang justifikasi atau nilai tambah dari sudut pandang organisasi
+. proses bisnis yang didukung
+. hasil yang diharapkan terkait utilitas layanan
+. hasil yang diharapkan terkait jaminan layanan
+
+=== Ketergantungan terhadap layanan pendukung / teknis dan/atau _Configuration Item_ (CI)
+
+=== Referensi ke Dokumen lain
+
+Seperti ke business case dan model layanan
